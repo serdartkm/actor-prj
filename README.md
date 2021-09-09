@@ -1,2 +1,2 @@
 # actor-prj
-readmy
+readmy yes
